@@ -35,9 +35,6 @@ If you are looking for code related to the **42 Porto Piscine**, <a href="https:
 | [push_swap](https://github.com/jotavare/push_swap) | 02 | <img src="https://img.shields.io/badge/status-registered-green" /> | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap" /> | <img src="https://img.shields.io/badge/score-not%20submitted-red" /> | <img src="https://img.shields.io/github/last-commit/jotavare/push_swap" /> |
 </div>
 
-</br>
-<div align="center">
-
 ## LICENSE
 <p>
 This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
