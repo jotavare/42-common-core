@@ -10,7 +10,6 @@
 
 <p align="center">
 	<a href="#about">About</a> •
-	<a href="#badge">Badge</a> •
 	<a href="#projects">Projects</a> •
 	<a href="#license">License</a>
 </p>
@@ -21,11 +20,6 @@ This repository contains code developed at **42 Porto Common Core**, from **02/1
 The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
 
 If you are looking for code related to the **42 Porto Piscine**, <a href="https://github.com/jotavare/42-piscine">click here</a>.
-
-## BADGE
-<p align="center">
-  <img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=21&coalitionId=293" />
-</p>
 
 ## PROJECTS
 | Project | Rank | Status | Language | Score | Activity |
