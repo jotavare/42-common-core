@@ -22,6 +22,8 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 If you are looking for code related to the **42 Porto Piscine**, <a href="https://github.com/jotavare/42-piscine">click here</a>.
 
 ## PROJECTS
+<div align="center">
+
 | Project | Rank | Status | Language | Score | Activity |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [libft](https://github.com/jotavare/libft) | 00 | <img src="https://img.shields.io/badge/status-done-success" /> |<img src="https://img.shields.io/github/languages/top/jotavare/libft" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/libft" /> |
@@ -31,6 +33,10 @@ If you are looking for code related to the **42 Porto Piscine**, <a href="https:
 | [minitalk](https://github.com/jotavare/minitalk) | 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/minitalk" /> |
 | [so_long](https://github.com/jotavare/so_long) | 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/github/languages/top/jotavare/so_long" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/so_long" /> |
 | [push_swap](https://github.com/jotavare/push_swap) | 02 | <img src="https://img.shields.io/badge/status-registered-green" /> | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap" /> | <img src="https://img.shields.io/badge/score-not%20submitted-red" /> | <img src="https://img.shields.io/github/last-commit/jotavare/push_swap" /> |
+</div>
+
+</br>
+<div align="center">
 
 ## LICENSE
 <p>
