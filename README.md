@@ -11,6 +11,7 @@
 <p align="center">
 	<a href="#about">About</a> •
 	<a href="#projects">Projects</a> •
+	<a href="#exams">Exams</a> •
 	<a href="#license">License</a>
 </p>
 
