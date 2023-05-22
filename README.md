@@ -45,9 +45,6 @@ If you are looking for code related to the **42 Porto Piscine**, <a href="https:
 
 | Exam | Rank | Status | Date | Score |
 | :---: | :---: | :---: | :---: | :---: |
-| Exam 02 | 02 | <img src="https://img.shields.io/badge/failed-red" /> | 24-02-2023 | <img src="https://img.shields.io/badge/50%20%2F%20100%20-red" /> |
-| Exam 02 | 02 | <img src="https://img.shields.io/badge/failed-red" /> | 17-03-2023 | <img src="https://img.shields.io/badge/50%20%2F%20100%20-red" /> |
-| Exam 02 | 02 | <img src="https://img.shields.io/badge/failed-red" /> | 24-03-2023 | <img src="https://img.shields.io/badge/25%20%2F%20100%20-red" /> |
 | Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess" /> |
 
 
