@@ -56,7 +56,7 @@ If you are looking for code related to the **42 Porto Piscine**, <a href="https:
 	
 | Exam | Rank | Status | Date | Score |
 | :---: | :---: | :---: | :---: | :---: |
-| Exam 04 | 04 | - | - | - | - |
+| Exam 04 | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
 	
 | Exam | Rank| Status | Date | Score |
 | :---: | :---: | :---: | :---: | :---: |
