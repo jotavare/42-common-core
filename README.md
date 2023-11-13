@@ -29,8 +29,8 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 ## PROJECTS
 <div align="center">
 
-| Project | Rank | Status | Language | Score | Activity |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| Project | Rank | Status | Language | Score | Activity | Evaluation Lenght | Blackhole |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [libft](https://github.com/jotavare/libft) | 00 | <img src="https://img.shields.io/badge/done-sucess" /> |<img src="https://img.shields.io/github/languages/top/jotavare/libft" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/libft" /> |
 | [get_next_line](https://github.com/jotavare/get_next_line) | 01 | <img src="https://img.shields.io/badge/done-sucess" /> |<img src="https://img.shields.io/github/languages/top/jotavare/get_next_line" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/get_next_line" /> |
 | [ft_printf](https://github.com/jotavare/ft_printf) | 01 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/ft_printf" /> | <img src="https://img.shields.io/badge/104%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/ft_printf" /> |
@@ -43,6 +43,10 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 | [netpractice](https://github.com/jotavare/netpractice) | 04 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/netpractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/netpractice" /> |
 | [cub3d](https://github.com/jotavare/cub3d) | 04 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d" /> | <img src="https://img.shields.io/badge/110%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cub3d" /> |
 | [cpp_modules](https://github.com/jotavare/cpp_modules) | 04 - 05 | <img src="https://img.shields.io/badge/in_progress-yellow" /> | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules" /> | <img src="https://img.shields.io/badge/in_progress-yellow" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cpp_modules" /> |
+| ft_irc | 05 | - | - | - | - |
+| Inception | 05 | - | - | - | - |
+| ft_transcendence  | 06 | - | - | - | - |
+
 </div>
 
 ## EXAMS
@@ -51,22 +55,9 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 | Exam | Rank | Status | Date | Score |
 | :---: | :---: | :---: | :---: | :---: |
 | Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess" /> |
-
-
-| Exam | Rank | Status | Date | Score |
-| :---: | :---: | :---: | :---: | :---: |
 | Exam 03 | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
-	
-| Exam | Rank | Status | Date | Score |
-| :---: | :---: | :---: | :---: | :---: |
 | Exam 04 | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
-	
-| Exam | Rank| Status | Date | Score |
-| :---: | :---: | :---: | :---: | :---: |
 | Exam 05 | 05 | - | - | - | - |
-	
-| Exam | Rank | Status | Date | Score |
-| :---: | :---: | :---: | :---: | :---: |
 | Exam 06 | 06 | - | - | - | - |
 
 </div>
