@@ -29,36 +29,36 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 ## PROJECTS
 <div align="center">
 
-| Project | Rank | Status | Language | Score | Activity | Evaluation Lenght | Blackhole |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [libft](https://github.com/jotavare/libft) | 00 | <img src="https://img.shields.io/badge/done-sucess" /> |<img src="https://img.shields.io/github/languages/top/jotavare/libft" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/libft" /> |
-| [get_next_line](https://github.com/jotavare/get_next_line) | 01 | <img src="https://img.shields.io/badge/done-sucess" /> |<img src="https://img.shields.io/github/languages/top/jotavare/get_next_line" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/get_next_line" /> |
-| [ft_printf](https://github.com/jotavare/ft_printf) | 01 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/ft_printf" /> | <img src="https://img.shields.io/badge/104%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/ft_printf" /> |
-| [born2beroot](https://github.com/jotavare/born2beroot) | 01 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/born2beroot" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/born2beroot" /> |
-| [minitalk](https://github.com/jotavare/minitalk) | 02 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/minitalk" /> |
-| [so_long](https://github.com/jotavare/so_long) | 02 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/so_long" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/so_long" /> |
-| [push_swap](https://github.com/jotavare/push_swap) | 02 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap" /> | <img src="https://img.shields.io/badge/84%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/push_swap" /> |
-| [philosophers](https://github.com/jotavare/philosophers) | 03 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/philosophers" /> |
-| [minishell](https://github.com/jotavare/minishell) | 03 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/minishell" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/minishell" /> |
-| [netpractice](https://github.com/jotavare/netpractice) | 04 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/netpractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/netpractice" /> |
-| [cub3d](https://github.com/jotavare/cub3d) | 04 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d" /> | <img src="https://img.shields.io/badge/110%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cub3d" /> |
-| [cpp_modules](https://github.com/jotavare/cpp_modules) | 04 - 05 | <img src="https://img.shields.io/badge/in_progress-yellow" /> | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules" /> | <img src="https://img.shields.io/badge/in_progress-yellow" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cpp_modules" /> |
-| ft_irc | 05 | - | - | - | - |
-| Inception | 05 | - | - | - | - |
-| ft_transcendence  | 06 | - | - | - | - |
+| Project | Language | Score | Activity | Review Information |
+| :--- | :--- | :--- | :--- | :--- |
+| [libft](https://github.com/jotavare/libft) | <img src="https://img.shields.io/github/languages/top/jotavare/libft" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/libft" /> | `3 peers` `15 mins` `moulinette` |
+| [get_next_line](https://github.com/jotavare/get_next_line) | <img src="https://img.shields.io/github/languages/top/jotavare/get_next_line" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/get_next_line" /> | `3 peers` `15 mins` `moulinette` |
+| [ft_printf](https://github.com/jotavare/ft_printf) | <img src="https://img.shields.io/github/languages/top/jotavare/ft_printf" /> | <img src="https://img.shields.io/badge/104%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/ft_printf" /> | `3 peers` `15 mins` `moulinette` |
+| [born2beroot](https://github.com/jotavare/born2beroot) | <img src="https://img.shields.io/github/languages/top/jotavare/born2beroot" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/born2beroot" /> | `3 peers` `1 hour` |
+| [minitalk](https://github.com/jotavare/minitalk) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/minitalk" /> | `3 peers` `15 mins` |
+| [so_long](https://github.com/jotavare/so_long) | <img src="https://img.shields.io/github/languages/top/jotavare/so_long" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/so_long" /> | `3 peers` `15 mins` |
+| [push_swap](https://github.com/jotavare/push_swap) | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap" /> | <img src="https://img.shields.io/badge/84%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/push_swap" /> | `3 peers` `15 mins` |
+| [philosophers](https://github.com/jotavare/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/philosophers" /> | `3 peers` `15 mins` |
+| [minishell](https://github.com/jotavare/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/minishell" /> | `3 peers` `15 mins` `group` |
+| [netpractice](https://github.com/jotavare/netpractice) | <img src="https://img.shields.io/github/languages/top/jotavare/netpractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/netpractice" /> | `3 peers` `15 mins` |
+| [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d" /> | <img src="https://img.shields.io/badge/110%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cub3d" /> | `3 peers` `45 mins` `group` |
+| [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules" /> | <img src="https://img.shields.io/badge/in_progress-yellow" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cpp_modules" /> | `2 peers` `15 mins` `per module` |
+| ft_irc | - | - | - |`3 peers` `1 hour`  `group` |
+| Inception | - | - | - | `3 peers` `30 mins`|
+| ft_transcendence  | - | - | - | `3 peers` `1 hour` `group` |
 
 </div>
 
 ## EXAMS
 <div align="center">
 
-| Exam | Rank | Status | Date | Score |
-| :---: | :---: | :---: | :---: | :---: |
-| Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess" /> |
-| Exam 03 | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
-| Exam 04 | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
-| Exam 05 | 05 | - | - | - | - |
-| Exam 06 | 06 | - | - | - | - |
+| Exam | Status | Date | Score |
+| :---: | :---: | :---: | :---: |
+| Exam 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess" /> |
+| Exam 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
+| Exam 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
+| Exam 05 | - | - | - | - |
+| Exam 06 | - | - | - | - |
 
 </div>
 
