@@ -52,7 +52,7 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 ## EXAMS
 <div align="center">
 
-| Exam Rank | Language | Finish Date | Grade | Information |
+| Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
 | Exam 02 | `C` | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> | `3 hours` |
 | Exam 03 | `C` | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> | `3 hours` |
