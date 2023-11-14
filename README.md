@@ -29,7 +29,7 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 ## PROJECTS
 <div align="center">
 
-| Project | Language | Score | Activity | Review Information |
+| Project | Language | Grade | Last Commit | Review Information |
 | :--- | :--- | :--- | :--- | :--- |
 | [libft](https://github.com/jotavare/libft) | <img src="https://img.shields.io/github/languages/top/jotavare/libft" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/libft" /> | `3 peers` `15 mins` `moulinette` |
 | [get_next_line](https://github.com/jotavare/get_next_line) | <img src="https://img.shields.io/github/languages/top/jotavare/get_next_line" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/get_next_line" /> | `3 peers` `15 mins` `moulinette` |
@@ -52,13 +52,13 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 ## EXAMS
 <div align="center">
 
-| Exam | Status | Date | Score |
-| :---: | :---: | :---: | :---: |
-| Exam 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess" /> |
-| Exam 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
-| Exam 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> |
-| Exam 05 | - | - | - | - |
-| Exam 06 | - | - | - | - |
+| Exam Rank | Language | Finish Date | Grade | Information |
+| :--- | :--- | :--- | :--- | :--- |
+| Exam 02 | `C` | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> | `3 hours` |
+| Exam 03 | `C` | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> | `3 hours` |
+| Exam 04 | `C` | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess" /> | `3 hours` |
+| Exam 05 | `C` | - | - | `3 hours` |
+| Exam 06 | `C++` | - | - | `3 hours` |
 
 </div>
 
