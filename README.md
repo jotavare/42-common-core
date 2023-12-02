@@ -80,5 +80,5 @@ At 42 School, it is expected that almost every project is written following the 
 
 ## LICENSE
 <p>
-This work is published under the terms of <a href="https://github.com/jotavare/42-common-core/main/LICENSE">42 Unlicense</a>.
+This work is published under the terms of <a href="https://github.com/jotavare/42-common-core/blob/main/LICENSE">Unlicense</a>.
 </p>
