@@ -65,7 +65,7 @@ This repository contains code developed at **42 Porto Common Core**, from **02/1
 At 42 School, it is expected that almost every project is written following the Norm, which is the coding standard of the school.
 
 ```
-- No for, do...while, switch, case, goto, ternary operators and variable-length arrays are allowed;
+- No for, do...while, switch, case, goto, ternary operators, or variable-length arrays allowed;
 - Each function must be a maximum of 25 lines, not counting the function's curly brackets;
 - Each line must be at most 80 columns wide, with comments included;
 - A function can take 4 named parameters maximum;
