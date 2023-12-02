@@ -28,7 +28,7 @@ This repository contains code developed at **42 Porto Common Core**, from **02/1
 ## PROJECTS
 <div align="center">
 
-| Name | Language | Grade | Last Commit | Review Information |
+| Project | Language | Grade | Last Commit | Review Information |
 | :--- | :--- | :--- | :--- | :--- |
 | [libft](https://github.com/jotavare/libft) | <img src="https://img.shields.io/github/languages/top/jotavare/libft"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/libft"/> | `3 peers` `15 mins` `moulinette` |
 | [get_next_line](https://github.com/jotavare/get_next_line) | <img src="https://img.shields.io/github/languages/top/jotavare/get_next_line"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/get_next_line" /> | `3 peers` `15 mins` `moulinette` |
