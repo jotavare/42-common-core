@@ -19,9 +19,9 @@
 </p>
 
 ## ABOUT
-This repository contains code developed at **42 Porto Common Core**, from **02/11/2022** to **present day**. </br>
-
 The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
+
+This repository contains code developed at **42 Porto Common Core**, from **02/11/2022** to **present day**. </br>
 
 > [!NOTE]  
 > If you are looking for code related to the **42 Porto Piscine**, <a href="https://github.com/jotavare/42-piscine">click here</a>.
@@ -43,8 +43,8 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 | [netpractice](https://github.com/jotavare/netpractice) | <img src="https://img.shields.io/github/languages/top/jotavare/netpractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/netpractice" /> | `3 peers` `15 mins` |
 | [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d" /> | <img src="https://img.shields.io/badge/110%20%2F%20100-sucess" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cub3d" /> | `3 peers` `45 mins` `group` |
 | [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules" /> | <img src="https://img.shields.io/badge/in_progress-yellow" /> | <img src="https://img.shields.io/github/last-commit/jotavare/cpp_modules" /> | `2 peers` `15 mins` `per module` |
-| ft_irc | - | - | - |`3 peers` `1 hour`  `group` |
-| Inception | - | - | - | `3 peers` `30 mins`|
+| webserv | - | - | - |`3 peers` `1 hour`  `group` |
+| inception | - | - | - | `3 peers` `30 mins`|
 | ft_transcendence  | - | - | - | `3 peers` `1 hour` `group` |
 
 </div>
@@ -75,7 +75,7 @@ At 42 School, it is expected that almost every project is written in accordance 
 - ...
 ```
 
-* [42 Norms](https://github.com/jotavare/jotavare/blob/main/42/pdf/en_norm.pdf) - Information about 42 code norms. `PDF`
+* [42 Norms](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) - Information about 42 code norms. `PDF`
 * [Norminette](https://github.com/42School/norminette) - Tool by 42, to respect the code norm. `GitHub`
 * [42 Header](https://github.com/42Paris/42header) - 42 header for Vim. `GitHub`
 
