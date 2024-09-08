@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square"/>
+	<img src="https://img.shields.io/badge/status-black%20hole-black?style=flat-square"/>
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-common-core/main?color=%2312bab9&style=flat-square">
 	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
@@ -41,11 +41,11 @@ This repository contains code developed at **42 Porto Common Core**, from **02/1
 | [philosophers](https://github.com/jotavare/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/philosophers"/> | `3 peers` `15 mins` |
 | [minishell](https://github.com/jotavare/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/minishell"/> | `3 peers` `15 mins` |
 | [net_practice](https://github.com/jotavare/net_practice) | <img src="https://img.shields.io/github/languages/top/jotavare/net_practice"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/net_practice"/> | `3 peers` `15 mins` |
-| [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d"/> | <img src="https://img.shields.io/badge/in_progress-yellow"/> | <img src="https://img.shields.io/github/last-commit/jotavare/cub3d"/> | `3 peers` `45 mins` |
-| [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules"/> | <img src="https://img.shields.io/badge/in_progress-yellow"/> | <img src="https://img.shields.io/github/last-commit/jotavare/cpp_modules"/> | `2 peers` `15 mins` |
-| [inception](https://github.com/jotavare/inception) | <img src="https://img.shields.io/github/languages/top/jotavare/inception"/> | <img src="https://img.shields.io/badge/in_progress-yellow"/> | <img src="https://img.shields.io/github/last-commit/jotavare/inception"/> | `3 peers` `30 mins` |
-| webserv | - | - | - |`3 peers` `1 hour` |
-| ft_transcendence  | - | - | - | `3 peers` `1 hour` |
+| [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/github/last-commit/jotavare/cub3d"/> | `3 peers` `45 mins` |
+| [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/github/last-commit/jotavare/cpp_modules"/> | `2 peers` `15 mins` |
+| [inception](https://github.com/jotavare/inception) | <img src="https://img.shields.io/github/languages/top/jotavare/inception"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/github/last-commit/jotavare/inception"/> | `3 peers` `30 mins` |
+| webserv | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> |`3 peers` `1 hour` |
+| ft_transcendence  | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `1 hour` |
 
 </div>
 
@@ -58,11 +58,11 @@ This repository contains code developed at **42 Porto Common Core**, from **02/1
 
 | Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
-| Exam 02 | `C` | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess"/> | `3 hours` |
-| Exam 03 | `C` | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess"/> | `3 hours` |
-| Exam 04 | `C` | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%20%E2%98%85-sucess"/> | `3 hours` |
-| Exam 05 | `C++` | - | - | `3 hours` |
-| Exam 06 | `C++` | - | - | `3 hours` |
+| Exam 02 | `C` | 31-03-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| Exam 03 | `C` | 05-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| Exam 04 | `C` | 05-07-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `3 hours` |
+| Exam 05 | `C++` | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 hours` |
+| Exam 06 | `C++` | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 hours` |
 
 </div>
 
