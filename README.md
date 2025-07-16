@@ -22,7 +22,7 @@ The **42 Common Core** was developed in Paris in 2013 and is continually evaluat
 
 This repository contains code developed at **42 Common Core**, from **02/11/2022** to **01/07/2024**. </br>
 
-> [!NOTE]  
+> [!NOTE]
 > If you are looking for code related to the **42 Piscine**, <a href="https://github.com/jotavare/42-piscine">click here</a>.
 
 ## PROJECTS
@@ -40,15 +40,15 @@ This repository contains code developed at **42 Common Core**, from **02/11/2022
 | [philosophers](https://github.com/jotavare/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/philosophers"/> | `3 peers` `15 mins` |
 | [minishell](https://github.com/jotavare/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/minishell"/> | `3 peers` `15 mins` |
 | [net_practice](https://github.com/jotavare/net_practice) | <img src="https://img.shields.io/github/languages/top/jotavare/net_practice"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/net_practice"/> | `3 peers` `15 mins` |
-| [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `45 mins` |
-| [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `2 peers` `15 mins` |
-| [inception](https://github.com/jotavare/inception) | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `30 mins` |
+| [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `45 mins` |
+| [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `2 peers` `15 mins` |
+| [inception](https://github.com/jotavare/inception) | <img src="https://img.shields.io/github/languages/top/jotavare/inception"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `30 mins` |
 | webserv | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> |`3 peers` `1 hour` |
 | ft_transcendence  | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `1 hour` |
 
 </div>
 
-> [!NOTE]  
+> [!NOTE]
 > In 42, the following projects are a personal choice:
 > <br> `so_long`, `fract-ol` or `fdf` > `minitalk` or `pipex` > `cub3d` or `minirt` > `webserv` or `ft_irc`
 
