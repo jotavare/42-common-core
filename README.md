@@ -38,12 +38,12 @@ This repository contains code developed at **42 Common Core**, from **02/11/2022
 | [minitalk](https://github.com/jotavare/minitalk) | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/minitalk"/> | `3 peers` `15 mins` |
 | [so_long](https://github.com/jotavare/so_long) | <img src="https://img.shields.io/github/languages/top/jotavare/so_long"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/so_long"/> | `3 peers` `15 mins` |
 | [push_swap](https://github.com/jotavare/push_swap) | <img src="https://img.shields.io/github/languages/top/jotavare/push_swap"/> | <img src="https://img.shields.io/badge/84%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/push_swap"/> | `3 peers` `15 mins` |
-| [philosophers](https://github.com/jotavare/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/philosophers"/> | `3 peers` `15 mins` |
-| [minishell](https://github.com/jotavare/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/minishell"/> | `3 peers` `15 mins` |
-| [net_practice](https://github.com/jotavare/net_practice) | <img src="https://img.shields.io/github/languages/top/jotavare/net_practice"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | <img src="https://img.shields.io/github/last-commit/jotavare/net_practice"/> | `3 peers` `15 mins` |
-| [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `45 mins` |
-| [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `2 peers` `15 mins` |
-| [inception](https://github.com/jotavare/inception) | <img src="https://img.shields.io/github/languages/top/jotavare/inception"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `30 mins` |
+| [philosophers](https://github.com/jotavare/philosophers) | <img src="https://img.shields.io/github/languages/top/jotavare/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/philosophers"/> | `3 peers` `15 mins` |
+| [minishell](https://github.com/jotavare/minishell) | <img src="https://img.shields.io/github/languages/top/jotavare/minishell"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/minishell"/> | `3 peers` `15 mins` |
+| [net_practice](https://github.com/jotavare/net_practice) | <img src="https://img.shields.io/github/languages/top/jotavare/net_practice"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/net_practice"/> | `3 peers` `15 mins` |
+| [cub3d](https://github.com/jotavare/cub3d) | <img src="https://img.shields.io/github/languages/top/jotavare/cub3d"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/cub3d"/> | `3 peers` `45 mins` |
+| [cpp_modules](https://github.com/jotavare/cpp_modules) | <img src="https://img.shields.io/github/languages/top/jotavare/cpp_modules"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/cpp_modules"/> | `2 peers` `15 mins` |
+| [inception](https://github.com/jotavare/inception) | <img src="https://img.shields.io/github/languages/top/jotavare/inception"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/inception"/> | `3 peers` `30 mins` |
 | webserv | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> |`3 peers` `1 hour` |
 | ft_transcendence  | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | <img src="https://img.shields.io/badge/black_hole-black"/> | `3 peers` `1 hour` |
 
@@ -85,7 +85,8 @@ At 42 School, it is expected that almost every project is written following the 
 
 ## CONTRIBUTING
 
-If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
+This repository documents work already submitted and graded, so it is not open
+to changes. Feel free to fork it if any of it is useful to you.
 
 ## LICENSE
 
