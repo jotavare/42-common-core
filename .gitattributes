@@ -1,0 +1,2 @@
+# Keep everything in the repository as LF, whatever the checkout platform.
+* text=auto eol=lf
