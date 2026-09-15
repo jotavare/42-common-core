@@ -1,0 +1,22 @@
+# Copy this into a calling repo as .github/workflows/security-scan.yml.
+# Runs the per-push/PR checks: secrets in the new commits, and identity on
+# the same range. Fast, and blocks a bad push/PR before merge.
+name: security-scan
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    uses: jotavare/security-pipeline/.github/workflows/scan.yml@v1
+    with:
+      canonical-email: 38820667+jotavare@users.noreply.github.com
+    secrets:
+      personal-email-pattern: ${{ secrets.PERSONAL_EMAIL_PATTERN }}
+      personal-data-pattern: ${{ secrets.PERSONAL_DATA_PATTERN }} # optional
+      ai-trailer-pattern: ${{ secrets.AI_TRAILER_PATTERN }} # optional, has a built-in default
