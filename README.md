@@ -85,8 +85,7 @@ At 42 School, it is expected that almost every project is written following the 
 
 ## CONTRIBUTING
 
-This repository documents work already submitted and graded, so it is not open
-to changes. Feel free to fork it if any of it is useful to you.
+This repository is finished and not open to changes.
 
 ## LICENSE
 
