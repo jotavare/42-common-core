@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   scan:
-    uses: jotavare/security-pipeline/.github/workflows/scan.yml@v1
+    uses: jotavare/security-pipeline/.github/workflows/scan.yml@main
     with:
       canonical-email: 38820667+jotavare@users.noreply.github.com
       full-history: true
