@@ -8,13 +8,6 @@
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#projects">Projects</a> •
-	<a href="#exams">Exams</a> •
-	<a href="#norminette">Norminette</a>
-</p>
-
 ## ABOUT
 The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
 
