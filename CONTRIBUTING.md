@@ -1,1 +1,1 @@
-This repository is finished and not open to changes.
+Issues and pull requests are welcome.
